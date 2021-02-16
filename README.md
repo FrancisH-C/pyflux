@@ -12,6 +12,10 @@ See some examples and documentation below. PyFlux is still only alpha software; 
 
 **Note From Author** : I am currently working on other projects as of now, so have paused updates for this library for the immediate future. If you'd like to help move the library forward by contributing, then do get in touch! I am planning to review at end of year and update the library as required (new version requirements, etc).
 
+## Fork notes
+
+- plot_z modified
+
 ## Models
 
 - [ARIMA models](http://pyflux.readthedocs.io/en/latest/arima.html)
@@ -60,3 +64,4 @@ PyFlux is still alpha software so results should be treated with care, but citat
 
 > Ross Taylor. 2016.
 > _PyFlux: An open source time series library for Python_
+
